@@ -8,8 +8,8 @@ Port scans are also a good lab for learning to separate genuine threats from har
 
 ## Files in this lab
 
-- `sample-logs/conn.log.json` — sanitized Zeek connection log output for this scenario
-- `walkthrough.md` — full investigation, field by field
+- [`sample-logs/conn.log.json`](conn.log.json) — sanitized Zeek connection log output for this scenario
+- [`walkthrough.md`](walkthrough.md) — full investigation, field by field
 
 ## How to reproduce this yourself
 
