@@ -29,7 +29,7 @@ Every lab follows the same structure:
 
 ## Getting started
 
-See [00-setup/minimal-setup-for-labs.md](/00-setup/minimal-setup-for-labs.md) for a lightweight Zeek setup — enough to capture traffic and generate logs, not a full production sensor deployment.
+See [00-setup/minimal-setup-for-labs.md](minimal-setup-for-labs.md) for a lightweight Zeek setup — enough to capture traffic and generate logs, not a full production sensor deployment.
 
 ## Why network-layer detection matters
 
