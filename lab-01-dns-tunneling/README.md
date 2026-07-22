@@ -8,8 +8,8 @@ DNS tunneling is a good first network anomaly lab because, unlike a lot of netwo
 
 ## Files in this lab
 
-- [`sample-logs/dns.log.json`](/dns.log.json) — sanitized Zeek DNS log output for this scenario
-- [`walkthrough.md`](/walkthrough.md) — full investigation, field by field
+- [`sample-logs/dns.log.json`](dns.log.json) — sanitized Zeek DNS log output for this scenario
+- [`walkthrough.md`](walkthrough.md) — full investigation, field by field
 
 ## How to reproduce this yourself
 
