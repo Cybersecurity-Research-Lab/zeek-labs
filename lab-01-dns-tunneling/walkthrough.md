@@ -2,7 +2,7 @@
 
 ## Step 1: Look at query volume and timing first
 
-In [`dns.log.json`](/dns.log.json), five queries arrive from the same host (`10.0.0.55`) within about 900 milliseconds, all directed at the same base domain: `datax-relay.example.net`. Compare this to the two other entries in the sample — normal lookups for `www.google.com` and `outlook.office365.com` — which are isolated, single queries, minutes apart, to well-known domains.
+In [`dns.log.json`](dns.log.json), five queries arrive from the same host (`10.0.0.55`) within about 900 milliseconds, all directed at the same base domain: `datax-relay.example.net`. Compare this to the two other entries in the sample — normal lookups for `www.google.com` and `outlook.office365.com` — which are isolated, single queries, minutes apart, to well-known domains.
 
 High-frequency queries to a single, unfamiliar domain in a tight time window is the first signal worth flagging, before even looking at the query content itself.
 
